@@ -1,0 +1,10 @@
+Flask==1.0.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.1
+Werkzeug==0.14.1
+fastai==1.0.61
+spacy==2.2.4
+pandas==1.3.5
+numpy==1.21.6
